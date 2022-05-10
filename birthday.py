@@ -1,7 +1,3 @@
-# pip win10toast
-#request
-# pandas
-
 import pandas as pd
 import datetime
 import smtplib
@@ -11,7 +7,7 @@ from win10toast import ToastNotifier
 
 # your gmail credential here
 gmail_id="8as1931140@gmail.com"
-gmail_pwd="@shaurya1"
+gmail_pwd="****urya1"
 
 # for desktop notification
 toast=ToastNotifier()
