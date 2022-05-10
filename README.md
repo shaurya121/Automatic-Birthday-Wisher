@@ -7,6 +7,7 @@ Send birthday wishes to your friends and family members on their birthday.
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Automatic-Birthday-Wisher/main/Screenshots/birthday.jpg)
+Received mail
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Automatic-Birthday-Wisher/main/Screenshots/Screenshot_20220504-233740_1.jpg)
 
 ## Installation
